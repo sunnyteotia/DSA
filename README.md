@@ -9,4 +9,16 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sunnyteotia/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

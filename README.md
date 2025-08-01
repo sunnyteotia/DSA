@@ -28,10 +28,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Design
 |  |
@@ -50,4 +52,8 @@
 | ------- |
 | [0134-gas-station](https://github.com/sunnyteotia/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunnyteotia/DSA/tree/master/0135-candy) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

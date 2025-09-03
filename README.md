@@ -64,6 +64,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/sunnyteotia/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -79,11 +80,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunnyteotia/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/sunnyteotia/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sunnyteotia/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/sunnyteotia/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Stack
 |  |

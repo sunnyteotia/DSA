@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/sunnyteotia/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunnyteotia/DSA/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/sunnyteotia/DSA/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunnyteotia/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

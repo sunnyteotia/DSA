@@ -19,6 +19,7 @@
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -126,4 +127,9 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sunnyteotia/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sunnyteotia/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -36,6 +37,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |

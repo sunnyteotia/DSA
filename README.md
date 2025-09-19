@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/sunnyteotia/DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -43,6 +44,7 @@
 | [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunnyteotia/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/sunnyteotia/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sunnyteotia/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -78,6 +80,7 @@
 | [0058-length-of-last-word](https://github.com/sunnyteotia/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sunnyteotia/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/sunnyteotia/DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/sunnyteotia/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/sunnyteotia/DSA/tree/master/2032-largest-odd-number-in-string) |

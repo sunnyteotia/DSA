@@ -71,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/sunnyteotia/DSA/tree/master/0058-length-of-last-word) |
+| [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |

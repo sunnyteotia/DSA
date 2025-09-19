@@ -48,6 +48,7 @@
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [2032-largest-odd-number-in-string](https://github.com/sunnyteotia/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/sunnyteotia/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunnyteotia/DSA/tree/master/0135-candy) |
+| [2032-largest-odd-number-in-string](https://github.com/sunnyteotia/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0058-length-of-last-word](https://github.com/sunnyteotia/DSA/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/sunnyteotia/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Depth-First Search
 |  |
 | ------- |

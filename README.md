@@ -71,6 +71,7 @@
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/sunnyteotia/DSA/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
@@ -138,6 +139,7 @@
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunnyteotia/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sunnyteotia/DSA/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation

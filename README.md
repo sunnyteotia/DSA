@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnyteotia/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sunnyteotia/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
@@ -150,10 +151,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnyteotia/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunnyteotia/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sunnyteotia/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunnyteotia/DSA/tree/master/0142-linked-list-cycle-ii) |

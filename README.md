@@ -57,6 +57,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sunnyteotia/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sunnyteotia/DSA/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2032-largest-odd-number-in-string](https://github.com/sunnyteotia/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -191,5 +192,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sunnyteotia/DSA/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/sunnyteotia/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

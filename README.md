@@ -20,6 +20,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunnyteotia/DSA/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/sunnyteotia/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sunnyteotia/DSA/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/sunnyteotia/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sunnyteotia/DSA/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/sunnyteotia/DSA/tree/master/0238-product-of-array-except-self) |
@@ -193,6 +194,11 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sunnyteotia/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sunnyteotia/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sunnyteotia/DSA/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sunnyteotia/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sunnyteotia/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

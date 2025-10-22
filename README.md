@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
+| [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunnyteotia/DSA/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -209,4 +211,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

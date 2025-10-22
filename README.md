@@ -45,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sunnyteotia/DSA/tree/master/0141-linked-list-cycle) |
@@ -84,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sunnyteotia/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sunnyteotia/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sunnyteotia/DSA/tree/master/0078-subsets) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

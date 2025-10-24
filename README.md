@@ -54,6 +54,7 @@
 | [0205-isomorphic-strings](https://github.com/sunnyteotia/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sunnyteotia/DSA/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyteotia/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sunnyteotia/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
@@ -97,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sunnyteotia/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sunnyteotia/DSA/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyteotia/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/sunnyteotia/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |

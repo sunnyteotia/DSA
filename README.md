@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
+| [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sunnyteotia/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
@@ -56,6 +57,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyteotia/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/sunnyteotia/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunnyteotia/DSA/tree/master/0238-product-of-array-except-self) |
+| [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Greedy
 |  |
@@ -214,6 +217,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnyteotia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |

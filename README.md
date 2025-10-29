@@ -108,6 +108,7 @@
 | [0012-integer-to-roman](https://github.com/sunnyteotia/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunnyteotia/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunnyteotia/DSA/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sunnyteotia/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunnyteotia/DSA/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sunnyteotia/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sunnyteotia/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +176,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunnyteotia/DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |

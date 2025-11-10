@@ -27,6 +27,7 @@
 | [0260-single-number-iii](https://github.com/sunnyteotia/DSA/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sunnyteotia/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -62,6 +63,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/sunnyteotia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sunnyteotia/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sunnyteotia/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/sunnyteotia/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -180,6 +182,7 @@
 | [0020-valid-parentheses](https://github.com/sunnyteotia/DSA/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sunnyteotia/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/sunnyteotia/DSA/tree/master/1046-max-consecutive-ones-iii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

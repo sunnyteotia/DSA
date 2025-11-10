@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/sunnyteotia/DSA/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunnyteotia/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sunnyteotia/DSA/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/sunnyteotia/DSA/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/sunnyteotia/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/sunnyteotia/DSA/tree/master/1034-subarrays-with-k-different-integers) |
@@ -183,6 +184,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sunnyteotia/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/sunnyteotia/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sunnyteotia/DSA/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sunnyteotia/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -252,4 +254,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sunnyteotia/DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/sunnyteotia/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
